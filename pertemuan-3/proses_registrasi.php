@@ -7,6 +7,7 @@ if (isset($_POST['submit'])) {
     $skills = $_POST['skill'];
     $domisili = $_POST['domisili'];
 
+
     echo "NIM: $nim";
     echo "<br> Nama: $nama";
     echo "<br> Jenis Kelamin: $gender";
